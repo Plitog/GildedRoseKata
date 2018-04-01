@@ -1,6 +1,6 @@
-# GildedRoseKata
+﻿# GildedRoseKata
 
-Gilded​ ​Rose​ ​problem​ ​adapted​ ​from​ ​Gilded​ ​Rose​ ​Kata​ ​​by​ [Terry Hughes](​​https://twitter.com/TerryHughes)
+Gilded​ ​Rose​ ​problem​ ​adapted​ ​from​ ​Gilded​ ​Rose​ ​Kata​ ​​by [Terry Hughes](https://twitter.com/TerryHughes)
 
 Hi​ ​and​ ​welcome​ ​to​ ​team​ ​Gilded​ ​Rose.​ ​We​ ​are​ ​a​ ​small​ ​inn​ ​with​ ​a​ ​prime​ ​location​ ​in​ ​a prominent​ ​city​ ​ran​ ​by​ ​a​ ​friendly​ ​innkeeper​ ​named​ ​Allison.​ ​We​ ​also​ ​buy​ ​and​ ​sell​ ​only​ ​the finest​ ​goods.​ ​Unfortunately,​ ​our​ ​goods​ ​are​ ​constantly​ ​degrading​ ​in​ ​quality​ ​as​ ​they​ ​approach their​ ​sell​ ​by​ ​date.​ ​We​ ​currently​ ​update​ ​our​ ​inventory​ ​manually.
 
